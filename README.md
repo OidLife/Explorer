@@ -1,16 +1,13 @@
 # Explorer
-OID Blockchain explorer
+**OID Blockchain explorer**
 
 The official OID explorer. 
 
-Go here -> https://oidexplorer.com 
-
--or-
-
+Go here -> https://oidexplorer.com  
+-or-  
 Here -> https://explorer.oid.life
 
-Note: Pools, explorer and blockchain may not show synced information. Use the information at your own risk.
+*Note: Pools, explorer and blockchain may not show synced information. Use the information at your own risk.*
 
-Thank you,
-
+Thank you,  
 [OID Team](https://oid.life/)
