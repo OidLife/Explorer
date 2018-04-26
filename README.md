@@ -13,6 +13,4 @@ Note: Pools, explorer and blockchain may not show synced information. Use the in
 
 Thank you,
 
-OID Team
-
-
+[OID Team](https://oid.life/)
